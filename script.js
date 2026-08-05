@@ -35,7 +35,7 @@ if (guest && guest.trim() !== "") {
 
 } else {
 
-    guestTitle.textContent = "Дорогие родные и друзья!";
+    guestTitle.textContent = "Дорогие Василий, Ирина, Наташа и Егор!";
 
 }
 
